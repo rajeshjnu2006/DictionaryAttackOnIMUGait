@@ -6,11 +6,16 @@ accepted  for publication at AISec'23 colocated with ACM CCS, Copenhagen
 
 Please cite the paper if you end up using the code or dataset. 
 
-bibtex
+bibtex entry 
+
 @inproceedings{kumar2023dictionary,
+
   title={Dictionary Attack on IMU-based Gait Authentication},
+  
   author={Kumar, Rajesh and Isik, Can and Mohan, CK},
+  
   booktitle={AISec'23 colocated with ACM CCS, Copenhagen},
+  
   year={2023}
 }
 
