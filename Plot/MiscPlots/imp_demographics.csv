@@ -1,0 +1,10 @@
+Id,i_Age(yr),i_Height(cm),i_Weight(lb),i_Waist(cm),i_Gender,i_Country
+Imitator1,29,180,183,91.44,Male,India
+Imitator2,33,162.56,107,71.12,Female,India
+Imitator3,27,195.58,190,86.36,Male,Syria
+Imitator4,26,167.64,156,81.28,Male,Pakistan
+Imitator5,25,180,260,96.52,Male,India
+Imitator6,30,168.91,174,83.82,Male,India
+Imitator7,35,168.91,143,78.74,Male,India
+Imitator8,24,185.42,210,93.98,Male,India
+Imitator9,38,165,158,76.2,Female,Pakistan
